@@ -1,4 +1,4 @@
-just type crack: app name
+just type crack: eBay
 
 example: crack: flashget 1.6a
 
