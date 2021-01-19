@@ -1,6 +1,6 @@
-just type crack: eBay
+just type crack: Cashapp
 
-example: crack: flashget 1.6a
+example: crack: cash
 
 
 http://www.google.com/search?hl=en&lr=&ie=UTF-8&q=crack%3A+flashget+1.6a
